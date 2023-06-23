@@ -24,10 +24,10 @@ engine.say("logging in to your account")
 engine.runAndWait()
 
 userinput=browser.find_element_by_css_selector('#email')
-userinput.send_keys("9847291043")
+userinput.send_keys(#######)
 
 passinput=browser.find_element_by_css_selector('#pass')
-passinput.send_keys("sreeind")
+passinput.send_keys(#######)
 
 loginbutton=browser.find_element_by_css_selector('#u_0_b')
 loginbutton.click()
