@@ -1,4 +1,4 @@
-##Voice Controlled Assistant
+##Voice Controlled Assistant.
 This repository contains a Python-based voice controlled assistant that utilizes Selenium, Requests, Pyttsx3, and SpeechRecognition libraries. The assistant is designed to automate certain tasks on Instagram, Facebook, Gmail, and provide limited PC automation capabilities. The project is released under the GNU General Public License v3.0.
 
 Features
